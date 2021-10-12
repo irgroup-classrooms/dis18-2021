@@ -24,7 +24,7 @@ General setting:
 
 * **Group 1:** Regular Expressions, Text Normalization, Edit Distance (2.1-2.4 auf S. 2-22): Puddu, Blum, Kubon, Bateva, Wolf
 * **Group 2:** Sequence Labeling for Parts of Speech and Named Entities (8.1 - 8.3 auf S. 148-155): Nebatz, Jennert
-* **Group 3:** Question Answering (23.1-23.3.1 auf S. 464-480):
+* **Group 3:** Question Answering (23.1-23.3.1 auf S. 464-480): Pycha, Hilbrecht, Schmer, Novak
 * **Group 3:** Information Extraction (17.1-17.5 auf S. 332-350): Tanriver, Celik, Alarslan, Romer
 
 
