@@ -4,6 +4,9 @@
 
 * [Zoom](https://th-koeln.zoom.us/j/84572216682) 
 * [Mattermost](https://chat.iim.th-koeln.de/signup_user_complete/?id=x7hmzjc96ffqmez5pse39w9eur) 
+* [Install Labelstudio](https://labelstud.io/guide/install.html)
+* [Install Snorkel](https://github.com/snorkel-team/snorkel#Installation)
+* [Install Docker (optional)](https://docs.docker.com/engine/install/)
 
 
 ## Slides
