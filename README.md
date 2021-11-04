@@ -12,6 +12,9 @@
 ## Slides
 
 * [Introduction and Kickoff](slides/DIS18-01-Introduction.pdf) (2021-10-12)
+* [Student presentations (password protected)](https://th-koeln.sciebo.de/s/ayTXjju7Xz5gLAT) (2021-11-02)
+
+The password for the presentations is the ZIP code of TH Köln, Claudiusstraße.
 
 ## Presentations on NLP Basics
 
