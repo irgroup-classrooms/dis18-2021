@@ -5,8 +5,12 @@
 * [Zoom](https://th-koeln.zoom.us/j/84572216682) 
 * [Mattermost](https://chat.iim.th-koeln.de/signup_user_complete/?id=x7hmzjc96ffqmez5pse39w9eur) 
 * [Install Labelstudio](https://labelstud.io/guide/install.html)
+* [Install Docker](https://docs.docker.com/engine/install/)
 * [Install Snorkel](https://github.com/snorkel-team/snorkel#Installation)
-* [Install Docker (optional)](https://docs.docker.com/engine/install/)
+* [Snorkel Docker Image](https://hub.docker.com/r/knockdata/snorkel)
+* [Snorkel Tutorial Spam](https://www.snorkel.org/use-cases/01-spam-tutorial)
+* [Snorkel Tutorial Relations](https://www.snorkel.org/use-cases/spouse-demo)
+* [European Green Deal Dokumente](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal/delivering-european-green-deal_en)
 
 
 ## Slides
