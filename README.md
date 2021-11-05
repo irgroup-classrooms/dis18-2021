@@ -10,7 +10,7 @@
 * [Snorkel Docker Image](https://hub.docker.com/r/knockdata/snorkel)
 * [Snorkel Tutorial Spam](https://www.snorkel.org/use-cases/01-spam-tutorial)
 * [Snorkel Tutorial Relations](https://www.snorkel.org/use-cases/spouse-demo)
-* [European Green Deal Dokumente](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal/delivering-european-green-deal_en)
+* [European Green Deal Documents](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal/delivering-european-green-deal_en)
 
 
 ## Slides
