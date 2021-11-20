@@ -1,7 +1,0 @@
-.git
-.tox
-.vscode
-build
-*cache*
-*/data
-*env*
