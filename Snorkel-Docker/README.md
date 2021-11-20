@@ -3,7 +3,7 @@
 Hi everyone,  
 this is a Tutorial on how to install Snorkel with Docker. This has only been tested on a system running Windows.  
 The later mentioned automatic scripts are based on the Windows CLI so you will have to run the commands manually on any other OS. If you need help on the installation for Linux or MacOS either DM me or refer to the original installation instructions [on this page](https://github.com/snorkel-team/snorkel).  
-The tutorial and all the scripts are built on the base of this [snorkel tutorial repo](https://github.com/snorkel-team/snorkel-tutorials).  
+The tutorial and all scripts are based on this [snorkel tutorial repo](https://github.com/snorkel-team/snorkel-tutorials).  
 ___
 I’ve had some issues installing the Snorkel - Docker version so I decided to write a little tutorial and even write some scripts that will automatically build the image and deploy the container on your docker system. Those scripts will take care of the whole installation so this Tutorial can be as short as possible.  
 **Important note:** While testing Snorkel on my device I saw that 100% of my CPU was used even though I was not running any lines of code. I figured that the Image configuration is set to allow snorkel to use all available system resources. As this could lead to memory running out of bounds or simply your system crashing, I’ve decided to restrict its resources using Docker Swarms (correct me if im wrong).  
