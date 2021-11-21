@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  snrkl1:
+    image: spam:latest
+    # container_name: snorkel1
+    ports:
+     - "8888:8888"
+    volumes:
+      - ./data:/tmp/data
+    deploy:
+        resources:
+            # Maximum
+            limits:
+              cpus: '4'
+              memory: 6G
+            reservations:
+            # Minimum
+              cpus: '2'
+              memory: 1G
