@@ -12,6 +12,11 @@
 * [Snorkel Tutorial Relations](https://www.snorkel.org/use-cases/spouse-demo)
 * [European Green Deal Documents](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal/delivering-european-green-deal_en)
 
+## Jamboards
+* [Gruppe 1](https://jamboard.google.com/d/1D3ZOB9dpImWJKqzTY3QN3QbQtGiLY8xGn8GErfGs2jc/edit?usp=sharing)
+* [Gruppe 2](https://jamboard.google.com/d/1k4Pbcn8aZD3qEk9guhz9pSrRGqohkvXOomTM3q-Be0o/edit?usp=sharing)
+* [Gruppe 3](https://jamboard.google.com/d/1ZOvOMKvvxq0pBzE8XetauWuSbEf0i6ANQDlA1pb2n8E/edit?usp=sharing)
+* [Gruppe 4](https://jamboard.google.com/d/1D3ZOB9dpImWJKqzTY3QN3QbQtGiLY8xGn8GErfGs2jc/edit?usp=sharing)
 
 ## Slides
 
